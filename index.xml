@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://weyg0.github.io.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>WEYGO</title>
+    <link>https://weyg0.github.io/</link>
+    <description>Recent content on WEYGO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Apr 2022 11:37:46 +0800</lastBuildDate><atom:link href="https://weyg0.github.io.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 11:37:46 +0800</lastBuildDate><atom:link href="https://weyg0.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://weyg0.github.io.github.io/post/blog/</link>
+      <link>https://weyg0.github.io/post/blog/</link>
       <pubDate>Wed, 13 Apr 2022 11:37:46 +0800</pubDate>
       
-      <guid>https://weyg0.github.io.github.io/post/blog/</guid>
+      <guid>https://weyg0.github.io/post/blog/</guid>
       <description>This is DongWei.</description>
     </item>
     
