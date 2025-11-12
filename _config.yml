@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "董伟"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "北京"
-  employer         : "中国工商银行股份有限公司北京市分行"
+  bio              : "呼呼爸"
+  location         : "北京，中国"
+  employer         : "中国工商银行北京市分行"
   uri              : # URL
   email            : "1193063312@qq.com" 
 
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
